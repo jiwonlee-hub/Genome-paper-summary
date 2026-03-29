@@ -1,6 +1,4 @@
 
-Analysis and summary of 'initial sequencing and analysis of the human genome' for Systems Bio cousrse.
-
 # Systems Biology: Paper Review
 > **Course:** Introduction to Systems Bio-Engineering (시스템생명공학개론)  
 > **Topic:** Analysis of the Human Genome Project (HGP)
