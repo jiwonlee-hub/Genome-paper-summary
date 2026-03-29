@@ -13,6 +13,11 @@
 
 ---
 
+## 📂 Study
+ **[나만의 논문 분석 전략 가이드](./STRATEGY.md)**
+
+---
+
 ## About Me
 **[이지원/jiwonlee_hub]**
  
