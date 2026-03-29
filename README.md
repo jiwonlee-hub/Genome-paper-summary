@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Study
- [summary guide](strategy.md)
+ [summary guide](summary guide)
 
 ---
 
