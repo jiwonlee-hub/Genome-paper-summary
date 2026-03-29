@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Study
- [나만의 논문 분석 전략 가이드](strategy.md)
+ [summary guide](strategy.md)
 
 ---
 
