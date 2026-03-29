@@ -14,7 +14,7 @@
 * **Main Findings (Results)**: 게놈 크기, 유전자 개수, 반복 서열(Repeat elements) 비중 확인.
 * **Discussion**: 생물학, 의학, 시스템 생물학에 미친 미래 지향적 영향력 체크.
 
-### ② 유전체학 관점 (2W1H)
+### ② 2W1H
 * **What**: 무엇을 분석하였는가?
 * **Why**: 왜 이 연구가 필요한가?
 * **How**: 어떤 기술(Sequencing 등)을 사용했는가?
