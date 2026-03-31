@@ -15,7 +15,7 @@
 
 ## 📂 Study
 [summary guide](./summary_guide.md)
-
+[#RA1 860p-868p](./summary_guide.md)
 ---
 
 ## About Me
