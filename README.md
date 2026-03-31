@@ -17,6 +17,8 @@
  [summary guide](./summary_guide.md)
  
  860p-868p [#RA1](./20260331_112704903.jpg)
+
+ 868p-876p [#RA2](./2_868.jpg)
  
 ---
 
