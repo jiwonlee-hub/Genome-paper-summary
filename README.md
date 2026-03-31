@@ -16,7 +16,7 @@
 ## 📂 Study
  [summary guide](./summary_guide.md)
  
- [#RA1 860p-868p](./Rename #1 860p-868p.jpg to #1 860p-868p.jpg.md)
+ 860p-868p [#RA1](./20260331_112704903.jpg)
  
 ---
 
