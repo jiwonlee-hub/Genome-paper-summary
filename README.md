@@ -19,7 +19,7 @@
  [context](./.md)
  
  860p-868p [#RA1](./20260331_112704903.jpg)
-[+memo],[+point sentence]
+,[#memo],[#point_sentence]
 
  868p-876p [#RA2](./2_868.jpg)
 
