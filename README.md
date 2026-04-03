@@ -20,6 +20,7 @@
  
  860p-868p [#RA1](./20260331_112704903.jpg)
 [memo],[point sentence]
+
  868p-876p [#RA2](./2_868.jpg)
 
  p876-p882 comparison whit other organisms.
