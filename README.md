@@ -14,7 +14,11 @@
 ---
 
 ## 📂 Study
- [summary guide](./summary_guide(0).md)
+ [summary guide0](./summary_guide(0).md)
+ 
+ [summary guide1](./.md) #RA1 제출 후 패드백...
+ 
+ [summary guide2](./summary_guide(2).md) 과제하다 보니 막막해서...
  
  [context](./.md)
  
