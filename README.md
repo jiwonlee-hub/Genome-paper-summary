@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Study
- [summary guide](./summary_guide.md)
+ [summary guide](./summary_guide(0).md)
  
  [context](./.md)
  
